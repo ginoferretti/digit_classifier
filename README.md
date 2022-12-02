@@ -30,4 +30,4 @@ pip install -r requirements.txt
 
 ## Use notebooks online
 Thanks to [Binder](https://mybinder.org/), it is possible to interact and run these notebooks online
-[![Binder](https://mybinder.org/badge_logo.svg)]
+![Binder](https://mybinder.org/badge_logo.svg)
